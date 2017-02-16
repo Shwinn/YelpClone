@@ -8,8 +8,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Table rows for search results should be dynamic height according to the content height.
-- [ ] Custom cells should have the proper Auto Layout constraints.
+- [x] Table rows for search results should be dynamic height according to the content height.
+- [x] Custom cells should have the proper Auto Layout constraints.
 - [ ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does).
 
 The following **optional** features are implemented:
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2017 Ashwin Gupta
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
